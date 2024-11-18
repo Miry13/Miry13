@@ -16,8 +16,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contáctame : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](miryamrolo10@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)]([https://www.instagram.com/miiry_0312?igsh=YTk1bXJkbWcxYTNi])
+[![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Miryan Romero ")](https://www.instagram.com/miiry_0312?igsh=YTk1bXJkbWcxYTNi) [![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/facebook.png "@Miryan Romero ")](https://www.facebook.com/share/MDkGBrd2Tz3jreLR/) [![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/linkedin.png "@Miryan Romero")](www.linkedin.com/in/miryam-romero-loor-b93656339) [![@Miryan Romero]
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
