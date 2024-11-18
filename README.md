@@ -1,22 +1,23 @@
-<h1 align="center">Bienvenidos a mi perfil<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Holis, bienvenidos...<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### :smiley_cat: Mi nombre es Miryan Romero y soy estudiante universitaria
 
-### dónde? en la ESPAM MFL, allí estudio Computación y hasta ahora la experiencia ha sido un poco rara 😄
+### EStudio en la ESPAM MFL, en la carrerra de Computación y hasta ahora la experiencia ha sido un poco rara 😅
 ### pero no me arrepiento, ahí vamos, sí se puede.
+### Es un placer que estén aquí visitando mi perfil, un beso 💋
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+## Un poco de las "estadísiticas" de los lenguajes que he llegado a conocer 🚀
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 No es que sé mucho de programación, pero estoy aprendiendo y me gusta, me gusta mucho 😈
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+## Contáctame : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](miryamrolo10@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)]([https://www.instagram.com/asthi_21_/](https://www.instagram.com/miiry_0312?igsh=YTk1bXJkbWcxYTNi))
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
