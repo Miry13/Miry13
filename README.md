@@ -18,13 +18,11 @@
 ## Contáctame : 
 [![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Miryan Romero ")](https://www.instagram.com/miiry_0312/profilecard/?igsh=MTJ1d2hyYWQ0dThrcw==) [![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/facebook.png "@Miryan Romero ")](https://www.facebook.com/share/MDkGBrd2Tz3jreLR/) [![@Miryan Romero ](https://img.icons8.com/fluency/48/000000/linkedin.png "@Miryan Romero")](https://www.linkedin.com/in/michy-romero-b93656339/)
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Chauu"</a></h2>
+<h6 align="center">❤️</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
 
-Last Edited on: 21/08/2021
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
