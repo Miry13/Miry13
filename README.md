@@ -1,6 +1,6 @@
 <h1 align="center">Holis, bienvenidos...<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: Mi nombre es Miryan Romero y soy estudiante universitaria
+### Mi nombre es Miryan Romero y soy estudiante universitaria 💅
 
 ### Estudio en la ESPAM MFL, en la carrerra de Computación y hasta ahora la experiencia ha sido un poco rara 😅
 ### pero no me arrepiento, ahí vamos, sí se puede.
